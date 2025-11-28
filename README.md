@@ -58,7 +58,7 @@ RAG Pipelines
 
 ## 🙌 Acknowledgements
 
-- ZepAnalytics - *** Satyajit Pattnaik *** Udemy Instructor – for the structured course and guidance.
+- ZepAnalytics - **Satyajit Pattnaik** Udemy Instructor – for the structured course and guidance.
 - LangChain Documentation – for updated patterns and modules.
 - Ollama Community – for powerful open-source LLM support.
 - open AI models and community
